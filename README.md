@@ -5,14 +5,14 @@ Topic : Online-Salon-Booking-System Id :_IWT_KDY_06 University : Sri Lanka Insti
 
 ----- Description -----  
 
-The project for the Second semester of the First year was to develop a Online salon booking System using HTML,CSS,PHP,JAVASCRIPT. I was responsible for Store management . Below are my four main functions. 
+The project for the Second semester of the First year was to develop a Online salon booking System using HTML,CSS,PHP,JAVASCRIPT. I was responsible for Store management . Below are my four main functions.  <br>
 1- Item Add <br>
 2-Item Update  <br>
 3-Item Delete  <br>
 4-View  <br>
 
 
------ Technologies and languages ----- 
+----- Technologies and languages -----  <br>
 HTML  <br>
 CSS  <br>
 Javascript  <br>  
