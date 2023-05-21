@@ -15,7 +15,7 @@ The project for the Second semester of the First year was to develop a Online sa
 ----- Technologies and languages -----  <br>
 HTML  <br>
 CSS  <br>
-Javascript  <br>  
+Javascript  <br>
 Apache Tomcat <br>
 
 ------Interface-------
